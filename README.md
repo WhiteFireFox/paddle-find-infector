@@ -25,4 +25,5 @@ paddle助力寻找潜在感染者
 <br><br>
 
 <font size=5>**项目体验**</font>
+<br><br>
 &emsp;&emsp;&emsp;&emsp;<font size=5>更好的项目体验请访问：</font>[项目](https://aistudio.baidu.com/aistudio/projectdetail/624003)
